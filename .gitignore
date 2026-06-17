@@ -1,0 +1,20 @@
+# ── IDE / Editor ──
+.vscode/keil-assistant.log
+.vscode/uv4.log
+.vscode/uv4.log.lock
+
+# ── Keil MDK build artifacts ──
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+JLinkLog.txt
+JLinkSettings.ini
+
+# ── 第三方资料 & SDK（非项目源码）──
+资料/
+
+# ── OS generated ──
+Thumbs.db
+Desktop.ini
